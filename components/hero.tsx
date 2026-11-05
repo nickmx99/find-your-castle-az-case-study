@@ -22,6 +22,10 @@ export function Hero() {
           <p className="mt-6 max-w-xl text-pretty text-lg leading-relaxed text-muted-foreground">
             {"A practical website project for my dad's Arizona real-estate business. I used AI-assisted tools to plan the site, refine its content, connect inquiry forms, and work through publishing and quality checks."}
           </p>
+          <p className="mt-4 max-w-xl border-l-2 border-gold pl-3 text-sm leading-relaxed text-foreground/85">
+            <span className="font-medium text-foreground">My contribution:</span>{' '}
+            planning, content decisions, review, and iteration—with AI assistance.
+          </p>
           <div className="mt-9 flex flex-col gap-3 sm:flex-row sm:items-center">
             <a
               href="https://findyourcastleaz.com"
@@ -29,17 +33,17 @@ export function Hero() {
               rel="noopener noreferrer"
               className="inline-flex items-center justify-center gap-2 rounded-sm bg-primary px-5 py-3 text-sm font-medium text-primary-foreground transition-colors hover:bg-primary/90"
             >
-              View the live project
+              View the real-estate website
               <ArrowUpRight className="size-4" aria-hidden="true" />
               <span className="sr-only">(opens in a new tab)</span>
             </a>
             <a
-              href="https://github.com/nickmx99"
+              href="https://github.com/nickmx99/find-your-castle-az-case-study"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center justify-center gap-2 rounded-sm border border-foreground/25 px-5 py-3 text-sm font-medium text-foreground transition-colors hover:border-foreground/60"
             >
-              Visit my GitHub
+              {'View this page’s code'}
               <ArrowUpRight className="size-4" aria-hidden="true" />
               <span className="sr-only">(opens in a new tab)</span>
             </a>
