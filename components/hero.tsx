@@ -38,12 +38,12 @@ export function Hero() {
               <span className="sr-only">(opens in a new tab)</span>
             </a>
             <a
-              href="https://github.com/nickmx99"
+              href="https://github.com/nickmx99/find-your-castle-az-case-study"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center justify-center gap-2 rounded-sm border border-foreground/25 px-5 py-3 text-sm font-medium text-foreground transition-colors hover:border-foreground/60"
             >
-              Visit my GitHub
+              {'View this page’s code'}
               <ArrowUpRight className="size-4" aria-hidden="true" />
               <span className="sr-only">(opens in a new tab)</span>
             </a>

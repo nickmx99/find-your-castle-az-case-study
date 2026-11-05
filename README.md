@@ -23,8 +23,9 @@ This page is intentionally self-contained. It has no forms, CRM connection, auth
 
 ## Links
 
-- Live project: https://findyourcastleaz.com
-- GitHub profile: https://github.com/nickmx99
+- Original real-estate website (the separate production business site this page describes): https://findyourcastleaz.com
+- This live case-study page: https://find-your-castle-az-case-study.vercel.app
+- Source code for this case-study page: https://github.com/nickmx99/find-your-castle-az-case-study
 
 ## Running locally
 
